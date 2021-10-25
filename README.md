@@ -4,3 +4,9 @@ There are still problems when it comes to playing a video in WebGL. Although the
 
 Developerpatform: Windows 10, Unity 2020.3.18f1
 
+| Run Mode    |Tested |
+| :---        |:---:  |
+| Editor Mode | <ul><li>- [x] </li></ul> |
+| Local Mode  | <ul><li>- [x] </li></ul> |
+| Remote Mode | <ul><li>- [x] </li></ul> |
+
