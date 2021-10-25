@@ -16,5 +16,5 @@ Video & Unity
 + With the RenderTexture Setup, videos are playing. On Chrome there is a play on awake problem, chrome seems to need any kind of userinput before player a video (problem may occur when reload the scene!!!) 
 + If there is a choppy video (although the sound/audio is good), try to clear cache data (images, video) in chorme.
 
-Setup
+WebGL: https://gameewigkeitsaufgaben.github.io/Test-WebGLVideo/
 
