@@ -10,3 +10,6 @@ Developerpatform: Windows 10, Unity 2020.3.18f1
 | Local Mode  | <ul><li>- [x] </li></ul> |
 | Remote Mode | <ul><li>- [x] </li></ul> |
 
+Video & Unity
+ScenePlainVideoPlayer: Use a Videoplayer Component to play a Video on an GameObject.
+SceneVideoFullScreen: Create a Videoplayer GameObject (Hierarchy), create a Render Texture(Project), create RawImage (Hierarchy) with Texture Render Texture, strech Transform; 
