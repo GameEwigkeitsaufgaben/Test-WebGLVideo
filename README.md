@@ -21,7 +21,6 @@ WebGL: https://gameewigkeitsaufgaben.github.io/Test-WebGLVideo/
 
 1) Projekt anlegen
 2) In Textures eine RenderTexture anlegen. Keine Änderungen vornehmen.
-3) Script namens WebGLVideoPlayer anlegen bzw. hier kopieren.  
-4) 
-5) Ein GameObject anlegen und ein Script mit 
+3) Script namens WebGLVideoPlayer anlegen bzw. hier kopieren: https://github.com/GameEwigkeitsaufgaben/Test-WebGLVideo/blob/main/Assets/MyGame/Scripts/WebGlVideoPlayer.cs
+5) Ein GameObject anlegen und WebGLVideoPlayer raufziehen. 
 
